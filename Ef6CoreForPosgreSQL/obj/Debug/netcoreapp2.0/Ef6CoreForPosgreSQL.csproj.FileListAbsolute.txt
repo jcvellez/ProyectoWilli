@@ -1,0 +1,15 @@
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\appsettings.json
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.deps.json
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.runtimeconfig.json
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.runtimeconfig.dev.json
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.dll
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.pdb
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.csproj.AssemblyReference.cache
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.AssemblyInfoInputs.cache
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.AssemblyInfo.cs
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.csproj.CoreCompileInputs.cache
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.dll
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.pdb
+C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.genruntimeconfig.cache

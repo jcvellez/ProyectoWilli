@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Ef6CoreForPosgreSQL
+build_property.ProjectDir = C:\HOME\EntityFramework-.netCore-PostgresSQLconnection\Ef6CoreForPosgreSQL\
