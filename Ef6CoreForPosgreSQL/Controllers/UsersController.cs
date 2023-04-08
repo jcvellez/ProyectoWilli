@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Ef6CoreForPosgreSQL.Controllers
 {
     [Produces("application/json")]
-    [Route("api/Users")]
+    [Route("api/Farmacias")]
     public class UsersController : Controller
     {
         private MyWebApiContext _context;
@@ -26,7 +26,7 @@ namespace Ef6CoreForPosgreSQL.Controllers
 
         public ActionResult GetUsers()
         {
-            var usersToReturn = _context.Users.Include(u => u.Group).ToList();
+            var usersToReturn = _context.Farmacias.ToList();
             return Ok(usersToReturn);
         }
     }
